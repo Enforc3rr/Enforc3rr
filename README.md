@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on [Video-Streaming Application](https://github.com/Enforc3rr/Mini-Youtube)
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
 - 👯 I’m looking for an Intership to showcase my skills and to learn working in a team.
-- 🥅 2021 Goals: Improving my backend Skills and Learn new backend Technologies.
+- 🥅 2021 Goals: Improving my backend Skills and To Learn About new backend Technologies.
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
