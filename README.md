@@ -72,3 +72,7 @@
 [gmail]: mailto:prateekkumartiwari01@gmail.com
 [telegram]: https://telegram.me/enforc3rr
 [twitter]: https://twitter.com/Enforc3rr
+
+---
+#### My Stats 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforc3rr&theme=tokyonight)
