@@ -1,6 +1,7 @@
-### Hi there, I'm Prateek Kumar
+## Hi there, I'm Prateek Kumar
 
 ## I'm a UnderGrad Student (Currently A Sophomore) , Developer.
+## Currently Working as a Backend Intern at iNext Jabalpur Apple Store Authorised Reseller.
 
 - 🔭 I’m currently working on [Video-Streaming Application](https://github.com/Enforc3rr/Mini-Youtube)
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
