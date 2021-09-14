@@ -1,6 +1,6 @@
 ## Hi there, I'm Prateek Kumar
 
-### I'm a UnderGrad Student (Currently A Sophomore) , Developer.
+### I'm a IT UnderGrad Student (Currently A Junior) , Developer.
 ### Currently Working as a Backend Intern at iNext Apple Store.
 
 - 🔭 I’m currently working on [Video-Streaming Application](https://github.com/Enforc3rr/Mini-Youtube)
