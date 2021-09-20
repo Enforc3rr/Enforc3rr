@@ -1,12 +1,14 @@
 ## Hi there, I'm Prateek Kumar
 
 ### I'm a IT UnderGrad Student (Currently A Junior) , Developer.
-### Currently Working as a Backend Intern at iNext Apple Store.
 
-- 🔭 I’m currently working on [Video-Streaming Application](https://github.com/Enforc3rr/Mini-Youtube)
+- 🔭 I’m currently working on [Peer-Connect](https://github.com/Enforc3rr/Peer-Connect)
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
 - 👯 I’m looking for an Intership to showcase my skills and to learn working in a team.
 - 🥅 2021 Goals: Improving my backend Skills and To Learn About new backend Technologies.
+
+### Experience :
+- Worked as a Backend Intern at iNext Apple Store. 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
