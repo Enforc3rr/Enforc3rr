@@ -2,7 +2,7 @@
 
 ### I'm a IT UnderGrad Student (Currently A Junior) , Developer.
 
-- 🔭 I’m currently working on [Peer-Connect](https://github.com/Enforc3rr/Peer-Connect)
+- 🔭 I’m currently working on [SMLLR](https://github.com/Enforc3rr/SMLLR)
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
 - 👯 I’m looking for an Intership to showcase my skills and to learn working in a team.
 - 🥅 2021 Goals: Improving my backend Skills and To Learn About new backend Technologies.
@@ -49,8 +49,11 @@
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 [<code>
-<img alt="MySQL" width="26px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128.png">
+<img alt="mongo" width="26px" src="https://github.com/mongodb-js/leaf/blob/master/dist/mongodb-leaf_128x128.png">
 </code>](https://www.mongodb.com/)
+[<code>
+<img alt="redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/redis-83994.png">
+</code>](https://redis.io/)
 [<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
