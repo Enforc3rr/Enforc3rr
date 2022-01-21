@@ -1,6 +1,6 @@
 ## Hi there, I'm Prateek Kumar
 
-### I'm a IT UnderGrad Student (Currently A Junior) , Developer.
+### I'm a IT UnderGrad Student (Currently in Junior Year) , Developer.
 
 - 🔭 I’m currently working on [SMLLR](https://github.com/Enforc3rr/SMLLR)
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
