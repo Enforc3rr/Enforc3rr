@@ -1,5 +1,5 @@
 ## Hi there, I'm Prateek Kumar
-
+### Currently working as Full Stack Intern at Cryptonaukri.com
 ### I'm a IT UnderGrad Student (Currently in Junior Year) , Developer.
 
 - 🔭 I’m currently working on [AniArt](https://github.com/Enforc3rr/AniArt)
