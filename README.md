@@ -12,14 +12,10 @@
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
-[<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][portfolio]
 [<img align="left" alt="Sabesan | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
 [<img align="left" alt="Sabesan | Telegram" height="22px" src="./SocialLogo/Telegram.png" />][telegram]
-[<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
-
 
 <br />
-
 ---
 
 ### Languages and Tools:
@@ -73,8 +69,13 @@
 <img alt="tailwindcss" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
 </code>](https://tailwindcss.com/)
 [<code>
+<img alt="bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />
+</code>](https://getbootstrap.com/)
+[<code>
 <img alt="EC2" width="26px" src="https://i.pinimg.com/originals/58/b5/48/58b5486d603986fa563abcfbf034a8c2.png" />
 </code>](https://aws.amazon.com/)
+
+
 ---
 [linkedin]: https://www.linkedin.com/in/prateek-kumar-2252ab1a3/
 [gmail]: mailto:prateekkumartiwari01@gmail.com
