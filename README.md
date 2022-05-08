@@ -76,11 +76,9 @@
 <img alt="EC2" width="26px" src="https://i.pinimg.com/originals/58/b5/48/58b5486d603986fa563abcfbf034a8c2.png" />
 </code>](https://aws.amazon.com/)
 ---
-
 [linkedin]: https://www.linkedin.com/in/prateek-kumar-2252ab1a3/
 [gmail]: mailto:prateekkumartiwari01@gmail.com
 [telegram]: https://telegram.me/enforc3rr
-
 
 #### My Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enforc3rr&theme=tokyonight)
