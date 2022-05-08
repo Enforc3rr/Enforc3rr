@@ -71,14 +71,15 @@
 </code>](https://reactjs.org/)
 [<code>
 <img alt="tailwindcss" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" />
-</code>](https://reactjs.org/)
+</code>](https://tailwindcss.com/)
+[<code>
+<img alt="EC2" width="26px" src="https://i.pinimg.com/originals/58/b5/48/58b5486d603986fa563abcfbf034a8c2.png" />
+</code>](https://aws.amazon.com/)
 ---
 
-[portfolio]: https://enforcerportfolio.netlify.app/
 [linkedin]: https://www.linkedin.com/in/prateek-kumar-2252ab1a3/
 [gmail]: mailto:prateekkumartiwari01@gmail.com
 [telegram]: https://telegram.me/enforc3rr
-[twitter]: https://twitter.com/Enforc3rr
 
 
 #### My Stats 
