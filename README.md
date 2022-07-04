@@ -1,13 +1,13 @@
 ## Hi there, I'm Prateek Kumar
-### Currently working as Full Stack Developer at Cryptonaukri.com
-### I'm a IT UnderGrad Student (Currently in Junior Year) , Developer.
+### Currently working as Backend Developer Intern at Xeno.
+### I'm a IT UnderGrad Student (Currently in Senior Year) , Developer.
 
-- 🔭 I’m currently working on [AniArt](https://github.com/Enforc3rr/AniArt)
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
 - 👯 I’m looking for an Intership to showcase my skills and to learn working in a team.
 - 🥅 2022 Goals: Improving my backend Skills and To Learn About new backend Technologies.
 
 ### Experience :
+- Worked as a Fullstack developer at cryptonaukri.
 - Worked as a Backend Intern at iNext Apple Store. 
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
