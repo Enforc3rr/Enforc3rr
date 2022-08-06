@@ -1,6 +1,8 @@
 ## Hi there, I'm Prateek Kumar
 ### Currently working as Backend Developer Intern at Xeno.
 ### I'm a IT UnderGrad Student (Currently in Senior Year) , Developer.
+  
+### Shifted to Gitlab because of work.
 
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
 - 👯 I’m looking for an Intership to showcase my skills and to learn working in a team.
