@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Cloud Computing And Polishing My DSA Skills.
 - 👯 I’m looking for an Intership to showcase my skills and to learn working in a team.
-- 🥅 2022 Goals: Improving my backend Skills and To Learn About new backend Technologies.
+- 🥅 2023 Goals: Improving my backend Skills and To Learn About new backend Technologies.
 
 ### Experience :
 - Worked as a Fullstack developer at cryptonaukri.
