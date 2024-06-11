@@ -1,5 +1,5 @@
 ## Hi there, I'm Prateek Kumar
-### Currently working as Backend Developer at Xeno.
+### Currently working as Sr. SWE at Josys.
   
 ### Shifted to [Gitlab](https://gitlab.com/prateek.kumar2) because of work. 
 
